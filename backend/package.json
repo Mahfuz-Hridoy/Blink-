@@ -1,0 +1,16 @@
+{
+  "name": "blink-travel",
+  "version": "1.0.0",
+  "description": "Blink Travel Agency responsive website with Express backend",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.22.4"
+  }
+}
